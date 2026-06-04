@@ -1,0 +1,59 @@
+{
+  "siteId": "travel-mistakes-shared",
+  "generatedAt": "2026-06-04T11:33:27.718295",
+  "categories": [
+    "beginner-travel-mistakes-shared",
+    "advanced-travel-mistakes-shared",
+    "tips-travel-mistakes-shared",
+    "history-travel-mistakes-shared",
+    "trending-travel-mistakes-shared",
+    "tutorials-travel-mistakes-shared"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-travel-mistakes-shared",
+      "category_name": "Beginner Travel Mistakes Shared"
+    },
+    {
+      "category_slug": "advanced-travel-mistakes-shared",
+      "category_name": "Advanced Travel Mistakes Shared"
+    },
+    {
+      "category_slug": "tips-travel-mistakes-shared",
+      "category_name": "Travel Mistakes Shared Tips"
+    },
+    {
+      "category_slug": "history-travel-mistakes-shared",
+      "category_name": "Travel Mistakes Shared History"
+    },
+    {
+      "category_slug": "trending-travel-mistakes-shared",
+      "category_name": "Trending Travel Mistakes Shared"
+    },
+    {
+      "category_slug": "tutorials-travel-mistakes-shared",
+      "category_name": "Travel Mistakes Shared Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "travel-mistakes-shared",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Travel Mistakes Shared Central",
+    "articles_per_row": 2
+  }
+}

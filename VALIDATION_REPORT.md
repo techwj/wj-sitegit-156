@@ -1,0 +1,88 @@
+# Validation Report - travel-mistakes-shared
+
+Generated: 2026-06-04T11:33:27.718040
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Travel Mistakes Shared
+- ✓ Article word count OK: Beginner Travel Mistakes Shared: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Travel Mistakes Shared
+- ✓ Article word count OK: Beginner Travel Mistakes Shared Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Travel Mistakes Shared
+- ✓ Article word count OK: Beginner Travel Mistakes Shared in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Travel Mistakes Shared
+- ✓ Article word count OK: Common Mistakes in Beginner Travel Mistakes Shared
+- ✓ Article word count OK: Beginner Travel Mistakes Shared for Beginners
+- ✓ Article word count OK: Advanced Beginner Travel Mistakes Shared Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Travel Mistakes Shared
+- ✓ Article word count OK: Advanced Travel Mistakes Shared: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Travel Mistakes Shared
+- ✓ Article word count OK: Advanced Travel Mistakes Shared Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Travel Mistakes Shared
+- ✓ Article word count OK: Advanced Travel Mistakes Shared in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Travel Mistakes Shared
+- ✓ Article word count OK: Common Mistakes in Advanced Travel Mistakes Shared
+- ✓ Article word count OK: Advanced Travel Mistakes Shared for Beginners
+- ✓ Article word count OK: Advanced Advanced Travel Mistakes Shared Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Mistakes Shared Tips
+- ✓ Article word count OK: Travel Mistakes Shared Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Mistakes Shared Tips
+- ✓ Article word count OK: Travel Mistakes Shared Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Mistakes Shared Tips
+- ✓ Article word count OK: Travel Mistakes Shared Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Mistakes Shared Tips
+- ✓ Article word count OK: Common Mistakes in Travel Mistakes Shared Tips
+- ✓ Article word count OK: Travel Mistakes Shared Tips for Beginners
+- ✓ Article word count OK: Advanced Travel Mistakes Shared Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Mistakes Shared History
+- ✓ Article word count OK: Travel Mistakes Shared History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Mistakes Shared History
+- ✓ Article word count OK: Travel Mistakes Shared History Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Mistakes Shared History
+- ✓ Article word count OK: Travel Mistakes Shared History in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Mistakes Shared History
+- ✓ Article word count OK: Common Mistakes in Travel Mistakes Shared History
+- ✓ Article word count OK: Travel Mistakes Shared History for Beginners
+- ✓ Article word count OK: Advanced Travel Mistakes Shared History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Travel Mistakes Shared
+- ✓ Article word count OK: Trending Travel Mistakes Shared: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Travel Mistakes Shared
+- ✓ Article word count OK: Trending Travel Mistakes Shared Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Travel Mistakes Shared
+- ✓ Article word count OK: Trending Travel Mistakes Shared in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Travel Mistakes Shared
+- ✓ Article word count OK: Common Mistakes in Trending Travel Mistakes Shared
+- ✓ Article word count OK: Trending Travel Mistakes Shared for Beginners
+- ✓ Article word count OK: Advanced Trending Travel Mistakes Shared Techniques
+- ✓ Article word count OK: The Ultimate Guide to Travel Mistakes Shared Tutorials
+- ✓ Article word count OK: Travel Mistakes Shared Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Travel Mistakes Shared Tutorials
+- ✓ Article word count OK: Travel Mistakes Shared Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Travel Mistakes Shared Tutorials
+- ✓ Article word count OK: Travel Mistakes Shared Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Travel Mistakes Shared Tutorials
+- ✓ Article word count OK: Common Mistakes in Travel Mistakes Shared Tutorials
+- ✓ Article word count OK: Travel Mistakes Shared Tutorials for Beginners
+- ✓ Article word count OK: Advanced Travel Mistakes Shared Tutorials Techniques
+- ✓ Ad configuration validated
